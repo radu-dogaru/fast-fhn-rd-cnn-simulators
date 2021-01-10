@@ -9,7 +9,9 @@ NUMPY (quite fast using CPU only, useful for reference and comparisons)
 CUPY (supports GPU with a code almost identical with the one in NUMPY, relatively slow for GPU support)
 Relevant papers (drafts attached): Please cite them if you find the code useful for your research
 
-[1] https://www.worldscientific.com/doi/abs/10.1142/S0218127498000152
+[1] R. Dogaru and L. O. Chua, "Edge of Chaos and Local Activity Domain of FitzHugh-Nagumo Equation", in International Journal of
+Bifurcation and Chaos (IJBC), Volume: 8, Issue: 2(1998) pp. 211-257. https://www.worldscientific.com/doi/abs/10.1142/S0218127498000152
+
 This paper gives a detalied methodology to identify useful regions in the parameter space of a FitzHugh Nagumo cellular nonlinear network model as well as several examples of emergent phenomena. They can be tested using these simulators. 
 
 [2] R. Dogaru, "Applications of Emergent Computation in Reaction-Diffusion CNNs for Image Processing," 2013 19th International Conference on Control Systems and Computer Science, Bucharest, 2013, pp. 370-377, doi: 10.1109/CSCS.2013.39. (attached here as draft IAFA_2013_draft.pdf )
@@ -22,5 +24,3 @@ published in Proceedings of the Workshop in Information Technology and Bionics (
 In this paper extension of the NUMBA model to the Cellular Neural Network model is explained. 
 
 Copyright Radu and Ioana Dogaru; Last update 10 January 2021
-
-
