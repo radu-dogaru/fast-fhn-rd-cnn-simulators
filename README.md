@@ -26,6 +26,6 @@ In this paper extension of the NUMBA model to the Cellular Neural Network model 
 Copyright Radu and Ioana Dogaru; Last update 10 January 2021
 
 
-<a href="https://colab.research.google.com/github/radu-dogaru/fast-fhn-rd-cnn-simulators/fhn_rd_cnn__fast_simulator.ipynb">
+<a href="https://colab.research.google.com/github/radu-dogaru/fast-fhn-rd-cnn-simulators/blob/fhn_rd_cnn__fast_simulator.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
