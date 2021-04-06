@@ -29,3 +29,4 @@ Copyright Radu and Ioana Dogaru; Last update 10 January 2021
 <a href="https://colab.research.google.com/github/radu-dogaru/fast-fhn-rd-cnn-simulators/blob/main/fhn_rd_cnn__fast_simulator.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+Associated paper here https://arxiv.org/abs/2102.10340
